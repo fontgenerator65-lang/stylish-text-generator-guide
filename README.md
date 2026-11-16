@@ -42,3 +42,6 @@ Try the [free Şekilli Metin Stylish Text Generator](https://sekillimetin.com/) 
 ---
 
 *This repository is an informational resource about stylish text generation and its everyday uses.*
+## More Information
+
+Read our [Practical Guide to Stylish Text and Unicode Characters](stylish-text-guide.md) to learn about Unicode text, creative usernames, and social media uses.
